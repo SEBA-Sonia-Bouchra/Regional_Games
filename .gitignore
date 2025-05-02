@@ -1,0 +1,25 @@
+# Build files
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
+# Visual Studio/Code::Blocks/Eclipse/etc.
+bin/
+obj/
+Debug/
+Release/
+*.depend
+*.layout
+
+# OS/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor-specific
+.vscode/
+*.code-workspace
+*.swp
+*~
